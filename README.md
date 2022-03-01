@@ -1,2 +1,1 @@
-# JenkinsAutomation
-Jenkins Test Project
+# WebAppForJenkins
